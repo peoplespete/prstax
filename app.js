@@ -1,4 +1,4 @@
-// express and mongoose
+// express AND mongoose
 var express = require('express');
 var mongoose = require('mongoose');
 
